@@ -1,0 +1,16 @@
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\bin\Debug\net5.0\Assignment-No-1.exe
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\bin\Debug\net5.0\Assignment-No-1.deps.json
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\bin\Debug\net5.0\Assignment-No-1.runtimeconfig.json
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\bin\Debug\net5.0\Assignment-No-1.runtimeconfig.dev.json
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\bin\Debug\net5.0\Assignment-No-1.dll
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\bin\Debug\net5.0\Assignment-No-1.pdb
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.csproj.AssemblyReference.cache
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.AssemblyInfoInputs.cache
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.AssemblyInfo.cs
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.csproj.CoreCompileInputs.cache
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.dll
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\refint\Assignment-No-1.dll
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.pdb
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\Assignment-No-1.genruntimeconfig.cache
+C:\Users\Ni3\source\repos\Assignment-No-1\Assignment-No-1\obj\Debug\net5.0\ref\Assignment-No-1.dll
