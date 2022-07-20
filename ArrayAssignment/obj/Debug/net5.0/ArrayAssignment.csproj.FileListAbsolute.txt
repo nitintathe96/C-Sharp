@@ -1,0 +1,16 @@
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.exe
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.deps.json
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.runtimeconfig.json
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.runtimeconfig.dev.json
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.dll
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.pdb
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.AssemblyInfo.cs
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.dll
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\refint\ArrayAssignment.dll
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.pdb
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.genruntimeconfig.cache
+C:\Users\Ni3\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\net5.0\ref\ArrayAssignment.dll
