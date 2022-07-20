@@ -96,7 +96,8 @@ namespace ArrayAssignment
             {
                 Console.WriteLine(arr + " ");
             }
-
+            Console.WriteLine("Count = " + list.Count);
+            Console.WriteLine("Capacity = " + list.Capacity);
         }
     }
 }
