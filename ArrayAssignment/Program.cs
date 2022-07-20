@@ -45,7 +45,8 @@ namespace ArrayAssignment
             Console.WriteLine(nums.Max()); // returns max Value
             Console.WriteLine(nums.Min()); // returns min Value
             Console.WriteLine(nums.Sum()); // returns sum of array element
-            Console.WriteLine(nums.Average()); // returns average of sequence of value
+            Console.WriteLine(nums.Average()); // returns average of sequence of value.
+
 
             ArrayList list = new ArrayList();
             list.Add(1);
@@ -65,7 +66,6 @@ namespace ArrayAssignment
             Console.WriteLine("Inserting element in arralist");
             list.Insert(3, "vedant");
             list.Insert(2, "aditya");
-            Console.WriteLine("-- Insert");
             Console.WriteLine("After Inserting  values arraylist");
             foreach (var arr in list)
             {
@@ -86,7 +86,17 @@ namespace ArrayAssignment
                 Console.WriteLine(arr);
             }
 
-            Console.WriteLine(list.Contains(2)); // it return boolean value
+            // it return boolean value.
+            Console.WriteLine(list.Contains(2));
+            
+            // reversing array                                     
+            list.Reverse();
+            Console.Write("Reversed ArrayList elements: ");
+            foreach (var arr in list)
+            {
+                Console.WriteLine(arr + " ");
+            }
+
         }
     }
 }
